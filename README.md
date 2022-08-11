@@ -4,7 +4,7 @@ This project is an Angular/Nativescript Web/Mobile poker client and Java/Spring 
 
 I made a extensible protocol for organize the develop, the RFC of the protocol is in the wiki, please see this link: 
 
-https://github.com/alexander171294/web-poker/wiki
+https://github.com/garawaa/web-poker/wiki
 
 In the past, I tried to start this project using php and simple html/javascript/jquery client, but for various reasons I never finished it. Now I started a new repo to continue this ambitious project, but this time using java and angular/Nativescript.
 
@@ -166,4 +166,4 @@ Run mysql server:
 
 docker run -d -p 3307:3306 --name mysql-db -e MYSQL_ROOT_PASSWORD=321654987 -e MYSQL_DATABASE=poker mysql 
 
-Docker getting started guide here: https://github.com/alexander171294/web-poker/wiki/Docker-Getting-Started
+Docker getting started guide here: https://github.com/garawaa/web-poker/wiki/Docker-Getting-Started
